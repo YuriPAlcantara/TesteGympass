@@ -1,0 +1,9 @@
+Caros, boa tarde!
+
+Foi solicitado criação de Testes, porém nunca trabalhei com tal, o teste que aprendi foram através do desenvolvimento mesmo, o qual realizo de forma de caixa branca, tendo o script para realizar as os testes e alterações necessárias no desenvolvimento do mesmo.
+
+Realizei o teste conforme POO (Programação Orientada a Objeto), infelizmente não realizei os modulos bonus, porém conforme irei realizando melhorias no script, desenvolvindo os modulos Bonus e for aprendendo a criar Test Junit,  irei implementando no projeto e realizando forks no mesmo.
+
+
+Desde já agradeço o interesse no meu trabalho e me coloco a disposição para maiores esclarecimentos. 
+
